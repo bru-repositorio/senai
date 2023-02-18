@@ -1,0 +1,24 @@
+INDEX VERSION 1.131+C:\Users\brthi\Desktop\AtividadeUC11-fiinal\ER2\testeMania\.metadata\.plugins\org.eclipse.jdt.core
+2657690536.index
+3318187869.index
+176119553.index
+2133271031.index
+1760013911.index
+1274408357.index
+2073266043.index
+2313217823.index
+1270447723.index
+1589935225.index
+1438820863.index
+41070326.index
+4063073299.index
+2106492976.index
+3893794450.index
+2686777110.index
+3670364678.index
+1115691137.index
+1865797976.index
+973186647.index
+3137107809.index
+3311336584.index
+3739339962.index
